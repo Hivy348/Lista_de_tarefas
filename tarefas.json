@@ -1,0 +1,27 @@
+[
+    {
+        "descrição": "Passear com o cão",
+        "concluida": false,
+        "prioridade": "Alta"
+    },
+    {
+        "descrição": "Limpar a casa",
+        "concluida": false,
+        "prioridade": "Média"
+    },
+    {
+        "descrição": "Exame de sangue",
+        "concluida": false,
+        "prioridade": "Alta"
+    },
+    {
+        "descrição": "Fazer compras",
+        "concluida": false,
+        "prioridade": "Alta"
+    },
+    {
+        "descrição": "Fazer as sombrancelhas",
+        "concluida": false,
+        "prioridade": "Média"
+    }
+]
