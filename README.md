@@ -1,5 +1,5 @@
 # Lista_de_tarefas  
-Projeto 4- Lista de tarefas em Python    
+Projeto 3- Lista de tarefas em Python    
 
 Esse projeto simples em Python contém:
 
